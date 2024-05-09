@@ -15,7 +15,7 @@ To assist medical practitioners, a Convolutional Neural Networks `CNN`-based dee
  ![image](https://github.com/yahayakayode/pneumonia-detection-using-cnn/assets/40303292/3028f9d5-de39-4968-b9b3-2bed87c49e04)
 
 
-  #### Samples Non-Pneumonia X-Ray images
+  #### Samples Normal X-Ray images
 
   ![image](https://github.com/yahayakayode/pneumonia-detection-using-cnn/assets/40303292/96ebab5b-4f23-4c1b-a0f6-600291b3d056)
 
