@@ -1,9 +1,7 @@
 ## Pneumonia Detection Using Convolutional Neural Networkcnn (CNN)
 
-![download-1000x600.jpg](attachment:download-1000x600.jpg)
-
 ### Project Overview 
-Early mentioned, pneumonia is a life-threatening lung infection resulting from several different viral infections. Early detection of pneumonia is crucial for determining the appropriate treatment of the disease and preventing and possible preventive measures. Chest radiographs are the most widely used tool for diagnosing pneumonia; however, they are subject to inter-class variability, and similarity to other pulmonary diseases, and the diagnosis largely depends on the clinicians’ expertise in detecting early pneumonia traces. 
+Pneumonia is a life-threatening lung infection resulting from several different viral infections. Early detection of pneumonia is crucial for determining the appropriate treatment of the disease and preventing and possible preventive measures. Chest radiographs are the most widely used tool for diagnosing pneumonia; however, they are subject to inter-class variability, and similarity to other pulmonary diseases, and the diagnosis largely depends on the clinicians’ expertise in detecting early pneumonia traces. 
 
 To assist medical practitioners, a Convolutional Neural Networks `CNN`-based deep learning model was developed to detect and classify `Chest X-ray` images into two classes “Pneumonia” and “Normal. Class Activation Mapping (CAM) was also applied to the detected images to intensify the potential regions of pneumonia in CXR images.
 
