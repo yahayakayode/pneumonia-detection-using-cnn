@@ -22,4 +22,4 @@ To assist medical practitioners, a Convolutional Neural Networks `CNN`-based dee
 
 
  ### Conclusion
-After analyzing over 5,000 image-dataset, a model was developed with Convolutional Neural Networks CNN. The developed model gave achieved an accuracy of 83.81%. This can be used in a medical imaging hospital to diagnose potential patients who may be suffering from pneumonia, as early detection could aid better treatment.
+After analyzing a dataset of over 5,000 images, a model was developed using Convolutional Neural Networks (CNN). The model achieved an accuracy of 83.81%. This system can be applied in medical imaging settings to assist in diagnosing patients who may have pneumonia, enabling earlier detection and improved treatment outcomes.
